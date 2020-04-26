@@ -1,12 +1,11 @@
-# Statistical-Learning---Regularization
+# Statistical-Learning-Regularization
 R
 
 This assignemnt was a part of Statistical Learning Module.
 
 Use R for linear regression with least squares on the Boston dataset from
 the MASS library and Fit a multiple regression model to predict the response using all of the predictors.
-Describe for which predictors can we reject the null hypothesis
-H0 : j = 0?
+Describe for which predictors can we reject the null hypothesis?
 
 Do this using each of the following regularisation approaches:
 (i ) no regularisation
